@@ -1,0 +1,4 @@
+requests
+esdk-obs-python
+minio
+oss2
